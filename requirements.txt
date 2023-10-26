@@ -1,0 +1,11 @@
+gym==0.25.1
+gym-sokoban
+imageio
+joblib
+matplotlib
+numpy
+Pillow
+scikit-learn
+scipy
+torch
+torchvision
