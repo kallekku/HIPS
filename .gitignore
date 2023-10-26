@@ -1,5 +1,13 @@
-out/*pth
-visualizations/*
-datasets/*pkl
+# Ignore compiled Python files
 __pycache__
-*/__pycache__
+
+# Ignore specific file types in these directories
+out/*.pth
+datasets/*.pkl
+
+# Ignore all contents of these directories
+visualizations/*
+
+# Except for these placeholder files
+!out/.gitkeep
+!visualizations/.gitkeep
