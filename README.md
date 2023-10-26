@@ -1,8 +1,8 @@
 Hierarchical Imitation Planning with Search
 ======
 Code for the papers  
-- *Hierarchical Imitation Learning with Vector Quantized Models* (ICML 2023 poster)  
-- *Hybrid Search for Efficient Planning with Completeness Guarantees* (NeurIPS 2023 poster)  
+- *Hierarchical Imitation Learning with Vector Quantized Models* (ICML 2023), [arXiV](https://arxiv.org/abs/2301.12962) 
+- *Hybrid Search for Efficient Planning with Completeness Guarantees* (NeurIPS 2023), [arXiV](https://arxiv.org/abs/2310.12819)
 
 Environment
 ------------
